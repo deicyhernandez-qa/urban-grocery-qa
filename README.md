@@ -1,5 +1,11 @@
 # Urban Grocery – Pruebas Web y de API
 
+![status](https://img.shields.io/badge/status-completado-2EA043?style=flat-square&labelColor=30363D)
+![casos ejecutados](https://img.shields.io/badge/casos%20ejecutados-41-1F6FEB?style=flat-square&labelColor=30363D)
+![bugs documentados](https://img.shields.io/badge/bugs%20documentados-19-DA3633?style=flat-square&labelColor=30363D)
+![endpoints](https://img.shields.io/badge/endpoints-Postman%20%7C%20API%20REST-DB6D28?style=flat-square&labelColor=30363D)
+![método](https://img.shields.io/badge/m%C3%A9todo-clases%20de%20equivalencia%20%7C%20valores%20l%C3%ADmite-58A6FF?style=flat-square&labelColor=30363D)
+
 Proyecto de testing de API REST realizado como parte del programa de QA de **TripleTen LatAm** (junio 2026). El objetivo fue verificar la robustez y el comportamiento esperado de dos endpoints críticos del servicio Urban Grocery mediante pruebas funcionales y de validación de datos ejecutadas con Postman.
 
 ## Contexto de negocio
